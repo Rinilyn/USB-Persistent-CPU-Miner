@@ -1,0 +1,1 @@
+# USB-Persistent-CPU-Miner
